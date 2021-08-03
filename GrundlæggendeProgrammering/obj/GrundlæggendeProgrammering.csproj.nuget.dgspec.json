@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Hovedforlob-1\\Grundlæggende Programmering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {}
+    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Hovedforlob-1\\Grundlæggende Programmering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {
+    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Hovedforlob-1\\Grundlæggende Programmering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
+        "projectUniqueName": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
         "projectName": "GrundlæggendeProgrammering",
-        "projectPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Hovedforlob-1\\Grundlæggende Programmering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
+        "projectPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
         "packagesPath": "C:\\Users\\ikkeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Hovedforlob-1\\Grundlæggende Programmering\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering\\obj\\",
+        "outputPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ikkeo\\AppData\\Roaming\\NuGet\\NuGet.Config",

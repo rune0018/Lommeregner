@@ -19,21 +19,6 @@ namespace GrundlæggendeProgrammering
                     firstNumber = Console.ReadLine();
                 } while (!IsValidNum(firstNumber));
 
-<<<<<<< Updated upstream
-            Console.WriteLine("Do you want to add, subtract, multiply or divide? ");
-            select = Console.ReadLine();
-            switch (select)
-            {
-                case "+":
-                    result = Convert.ToInt32(firstNumber) + Convert.ToInt32(secondNumber);
-                    Console.WriteLine(result);
-                    Console.ReadLine();
-                    break;
-                default:
-                    Console.WriteLine("Is not an option");
-                    break;
-            }
-=======
                 do
                 {
                     Console.Write("Enter the second number: ");
@@ -65,7 +50,6 @@ namespace GrundlæggendeProgrammering
                         break;
                 }
             } while (Continue());
->>>>>>> Stashed changes
         }
 
         static private bool IsValidNum(string check)
