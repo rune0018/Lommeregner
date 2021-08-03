@@ -12,6 +12,17 @@ namespace GrundlæggendeProgrammering
                 string select;
                 string firstNumber, secondNumber;
                 int result;
+
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Options: ");
+                Console.WriteLine("1: Add the numbers");
+                Console.WriteLine("2: Subtract the numbers");
+                Console.WriteLine("3: Multiply the numbers");
+                Console.WriteLine("4: Divide the numbers");
+                Console.WriteLine("5: The power of the number");
+                Console.WriteLine(new string('-', 30));
+                select = Console.ReadLine();
+                
                 do
                 {
                     Console.Write("Enter the first number: ");
@@ -23,16 +34,6 @@ namespace GrundlæggendeProgrammering
                     Console.Write("Enter the second number: ");
                     secondNumber = Console.ReadLine();
                 } while (!IsValidNum(secondNumber));
-
-                Console.WriteLine(new string('-', 30));
-                Console.WriteLine("Options: ");
-                Console.WriteLine("1: Add the numbers");
-                Console.WriteLine("2: Subtract the numbers");
-                Console.WriteLine("3: Multiply the numbers");
-                Console.WriteLine("4: Divide the numbers");
-                Console.WriteLine("5: The power of the number");
-                Console.WriteLine(new string('-', 30));
-                select = Console.ReadLine();
                 switch (select)
                 {
                     case "1":
