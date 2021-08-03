@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\Ny mappe\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {
+    "C:\\Users\\Acer\\Desktop\\Ny mappe\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Ny mappe\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
         "projectName": "GrundlæggendeProgrammering",
-        "projectPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
-        "packagesPath": "C:\\Users\\ikkeo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ikkeo\\OneDrive\\Skrivebord\\Techcollege\\Lommeregner\\GrundlæggendeProgrammering\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\Ny mappe\\GrundlæggendeProgrammering\\GrundlæggendeProgrammering.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\Ny mappe\\GrundlæggendeProgrammering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ikkeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
