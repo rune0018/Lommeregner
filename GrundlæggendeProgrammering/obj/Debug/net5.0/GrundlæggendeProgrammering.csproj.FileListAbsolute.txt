@@ -1,0 +1,16 @@
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.exe
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.deps.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.runtimeconfig.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.runtimeconfig.dev.json
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\ref\GrundlæggendeProgrammering.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\bin\Debug\net5.0\GrundlæggendeProgrammering.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.csproj.AssemblyReference.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.AssemblyInfoInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.AssemblyInfo.cs
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\ref\GrundlæggendeProgrammering.dll
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.pdb
+C:\Users\ikkeo\OneDrive\Skrivebord\Techcollege\Hovedforlob-1\Grundlæggende Programmering\GrundlæggendeProgrammering\GrundlæggendeProgrammering\obj\Debug\net5.0\GrundlæggendeProgrammering.genruntimeconfig.cache
