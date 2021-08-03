@@ -32,6 +32,21 @@ namespace GrundlæggendeProgrammering
                     Console.WriteLine(result);
                     Console.ReadLine();
                     break;
+                case "-":
+                    result = Convert.ToInt32(firstNumber) - Convert.ToInt32(secondNumber);
+                    Console.WriteLine(result);
+                    Console.ReadLine();
+                    break;
+                case "*":
+                    result = Convert.ToInt32(firstNumber) * Convert.ToInt32(secondNumber);
+                    Console.WriteLine(result);
+                    Console.ReadLine();
+                    break;
+                case "/":
+                    result = Convert.ToInt32(firstNumber) / Convert.ToInt32(secondNumber);
+                    Console.WriteLine(result);
+                    Console.ReadLine();
+                    break;
                 default:
                     Console.WriteLine("Is not an option");
                     break;
