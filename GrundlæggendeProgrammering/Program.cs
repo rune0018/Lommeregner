@@ -81,5 +81,14 @@ namespace GrundlæggendeProgrammering
 
             return validate.Key == ConsoleKey.Y;
         }
+        
+        static private int Powerof(int firstnum,int secondnum)
+        {
+            for(int i= 0; i < secondnum; i++)
+            {
+                firstnum *= firstnum;
+            }
+            return firstnum;
+        }
     }
 }
