@@ -12,6 +12,7 @@ namespace GrundlæggendeProgrammering
                 string select;
                 string firstNumber, secondNumber;
                 int result;
+                double resultD;
 
                 Console.WriteLine(new string('-', 30));
                 Console.WriteLine("Options: ");
@@ -52,6 +53,10 @@ namespace GrundlæggendeProgrammering
                         result = Convert.ToInt32(firstNumber) / Convert.ToInt32(secondNumber);
                         Console.WriteLine(result);
                         break;
+                    case "5":
+                        resultD = Powerof(Convert.ToDouble(firstNumber), Convert.ToDouble(secondNumber));
+                        Console.WriteLine(resultD);
+                        break;
                     default:
                         Console.WriteLine("Is not an option");
                         break;
@@ -82,13 +87,14 @@ namespace GrundlæggendeProgrammering
             return validate.Key == ConsoleKey.Y;
         }
         
-        static private int Powerof(int firstnum,int secondnum)
+        static private double Powerof(double firstnum,double secondnum)
         {
+            double result = 1;
             for(int i= 0; i < secondnum; i++)
             {
-                firstnum *= firstnum;
+                result *= firstnum;
             }
-            return firstnum;
+            return result;
         }
     }
 }
