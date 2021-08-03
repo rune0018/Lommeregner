@@ -12,7 +12,6 @@ namespace GrundlæggendeProgrammering
                 string select;
                 string firstNumber, secondNumber;
                 int result;
-
                 do
                 {
                     Console.Write("Enter the first number: ");
@@ -25,23 +24,30 @@ namespace GrundlæggendeProgrammering
                     secondNumber = Console.ReadLine();
                 } while (!IsValidNum(secondNumber));
 
-                Console.WriteLine("Do you want to add, subtract, multiply or divide? ");
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Options: ");
+                Console.WriteLine("1: Add the numbers");
+                Console.WriteLine("2: Subtract the numbers");
+                Console.WriteLine("3: Multiply the numbers");
+                Console.WriteLine("4: Divide the numbers");
+                Console.WriteLine("5: The power of the number");
+                Console.WriteLine(new string('-', 30));
                 select = Console.ReadLine();
                 switch (select)
                 {
-                    case "+":
+                    case "1":
                         result = Convert.ToInt32(firstNumber) + Convert.ToInt32(secondNumber);
                         Console.WriteLine(result);
                         break;
-                    case "-":
+                    case "2":
                         result = Convert.ToInt32(firstNumber) - Convert.ToInt32(secondNumber);
                         Console.WriteLine(result);
                         break;
-                    case "*":
+                    case "3":
                         result = Convert.ToInt32(firstNumber) * Convert.ToInt32(secondNumber);
                         Console.WriteLine(result);
                         break;
-                    case "/":
+                    case "4":
                         result = Convert.ToInt32(firstNumber) / Convert.ToInt32(secondNumber);
                         Console.WriteLine(result);
                         break;
